@@ -39,6 +39,7 @@ export default function Survey(props) {
           name="strongly-agree"
           value="5"/>
         <label for="strongly-agree">Strongly Agree</label><br />
+        <button type="submit">Submit</button>
       </form>
     </>
   )
